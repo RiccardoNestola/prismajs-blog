@@ -10,6 +10,6 @@ v- Successivamente definite un modello chiamato “Post” nel file schema.prism
 Una volta creato il modello, dovete implementare le operazioni di CRUD specifiche per questo modello.Questo significa che dovete realizzare:
 v- Una funzione che consente di creare un Post.
 v- Una funzione che permette di leggere un Post usando lo slug.
-- Una funzione che restituisce l’elenco di tutti i Post.
-- Una funzione che consente di modificare un Post.
+v- Una funzione che restituisce l’elenco di tutti i Post.
+v- Una funzione che consente di modificare un Post.
 - Una funzione che elimina un Post. */
