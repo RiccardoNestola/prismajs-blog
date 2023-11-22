@@ -11,7 +11,7 @@ prisma.post.findMany({
         image: true,
         content: true
     },
-}).then((pizze) => {
-    console.log("Lista pizze: ", pizze);
+}).then((post) => {
+    console.log("Lista dei Posts: ", post);
 });
 
