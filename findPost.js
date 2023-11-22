@@ -6,7 +6,7 @@ const prisma = new PrismaClient();
 
 
     async function findPost(slug){
-        const post = await prisma.post.findUnique({
+        await prisma.post.findUnique({
             where: {
                 slug: slug
             },
