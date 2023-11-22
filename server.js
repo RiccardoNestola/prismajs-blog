@@ -15,6 +15,6 @@ v- Una funzione che consente di modificare un Post.
 v- Una funzione che elimina un Post. */
 
 /* BONUS:
-1. Crea una funzione che restituisca solo i Post pubblicati.
+-1. Crea una funzione che restituisca solo i Post pubblicati.
 2. Crea una funzione che restituisca solo i Post che contengono una determinata stringa nel contenuto.
 3. Tramite un argomento CLI poter indicare quale funzione eseguire dal file. */
